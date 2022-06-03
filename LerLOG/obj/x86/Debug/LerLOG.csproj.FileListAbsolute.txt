@@ -1,0 +1,12 @@
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\bin\Debug\LerLOG.exe.manifest
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\bin\Debug\LerLOG.application
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\bin\Debug\LerLOG.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\bin\Debug\LerLOG.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\obj\x86\Debug\LerLOG.TelaLerLog.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\obj\x86\Debug\LerLOG.Properties.Resources.resources
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\obj\x86\Debug\LerLOG.csproj.GenerateResource.Cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\obj\x86\Debug\LerLOG.exe.manifest
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\obj\x86\Debug\LerLOG.application
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\obj\x86\Debug\LerLOG.exe
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\obj\x86\Debug\LerLOG.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\LerLOG\LerLOG\obj\x86\Debug\LerLOG.csprojResolveAssemblyReference.cache
